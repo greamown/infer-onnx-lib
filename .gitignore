@@ -1,0 +1,12 @@
+*__pycache__
+*/__pycache__/
+*.jpeg
+*.mp4
+*.onnx
+*.cmake
+CMakeCache.txt
+*/CMakeFiles/
+*Makefile
+*/externals/onnxruntime-linux-x64-1.15.1/
+*/externals/onnxruntime-win-x64-1.15.1/
+main
